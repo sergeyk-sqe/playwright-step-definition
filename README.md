@@ -1,6 +1,6 @@
 # 🧭 Playwright Step Decorator
 
-A lightweight **TypeScript decorator utility** for wrapping your Playwright test actions in structured, named `test.step()` blocks — improving readability, reporting, and debugging.
+A lightweight **TypeScript decorator utility** for wrapping your Playwright test actions in structured, named `test.step()` blocks — improving readability, reporting, and debugging
 
 ---
 
